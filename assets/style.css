@@ -297,6 +297,7 @@ h1, h2, h3, h4, h5 {
     background: url("../img/bgintro.jpg") no-repeat;
     background-size: cover;
     background-position: bottom;
+    background-attachment: fixed;
     z-index: 10000;
 }
 
@@ -1035,6 +1036,7 @@ h1, h2, h3, h4, h5 {
 .contact {
   background: url(../img/contact/bg.jpg) no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   padding-bottom: 7%;
 }
 
